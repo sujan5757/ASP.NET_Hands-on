@@ -71,6 +71,7 @@
 	- View Component Result
 
 =================================================================================
+
 16. Views 
 17. Razor - to insert the C# code inside the html file we use Razor 
 18. Razor View Engine - to convert the C# code into Html Code in Webpages we use the Razor View Engine. 
@@ -98,6 +99,7 @@
 24. strongly typed view
 
 =================================================================================
+
 25. Installing Bootstrap , Tailwind , Jquery in ASP.NET core
 26. _viewImports.cshtml
 
@@ -142,6 +144,7 @@ Drop Down list
 
 	
 =================================================================================
+
 29.Model Binding
 30.Model Validation
 	[Required]
