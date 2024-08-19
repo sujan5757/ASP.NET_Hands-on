@@ -134,6 +134,7 @@ Drop Down list
 
 	
 29.Model Binding
+
 30.Model Validation
 	[Required]
 	[Stringlength]
@@ -143,11 +144,14 @@ Drop Down list
 	[Phone]
 	[Url]
 	[Regular EXpression]
+ 
 31.Model state
+
 32.model state clear
 
 
 33.Entity Framework core
+
 34. Code first Approach of Entity framework
 35. CRUD Operation using Code first Approach
 36. Database First Approach 
