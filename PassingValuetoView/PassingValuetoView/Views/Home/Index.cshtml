@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+@ViewData["data1"]
+<br>
+@ViewData["data2"]
+<br>
+@ViewData["data3"]
+
+
+@{
+    foreach (var item in (String[])ViewData["data"])
+    {
+        <h2>@item</h2>
+    }
+}
+
+@{
+    foreach (var item in (String[])ViewData["Data5"])
+    {
+        <h2>@item</h2>
+    }
+}

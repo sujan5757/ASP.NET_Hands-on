@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\sujan.ps\\source\\repos\\taghelpersdemo\\taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\sujan.ps\\source\\repos\\taghelpersdemo\\taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\sujan.ps\\source\\repos\\taghelpersdemo\\taghelpersdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|c:\\users\\sujan.ps\\source\\repos\\taghelpersdemo\\taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EAD3FBEB-F0B4-4D04-914A-EA0584D87B7F}|TagHelpersDemo\\TagHelpersDemo.csproj|solutionrelative:taghelpersdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T02:00:46.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TagHelpersDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T01:59:26.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T01:58:42.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\TagHelpersDemo\\TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TagHelpersDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-16T01:58:03.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

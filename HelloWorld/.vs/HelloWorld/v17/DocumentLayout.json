@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{494FEA9E-B8F1-4799-A535-6155E9E6A62F}|ElectricityBill\\ElectricityBill.csproj|c:\\users\\sujan.ps\\source\\repos\\helloworld\\electricitybill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{494FEA9E-B8F1-4799-A535-6155E9E6A62F}|ElectricityBill\\ElectricityBill.csproj|solutionrelative:electricitybill\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\HelloWorld\\ElectricityBill\\Program.cs",
+              "RelativeDocumentMoniker": "ElectricityBill\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\HelloWorld\\ElectricityBill\\Program.cs",
+              "RelativeToolTip": "ElectricityBill\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T06:26:20.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

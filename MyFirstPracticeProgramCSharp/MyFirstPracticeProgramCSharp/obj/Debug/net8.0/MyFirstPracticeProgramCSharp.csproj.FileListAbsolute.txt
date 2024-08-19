@@ -1,0 +1,14 @@
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\bin\Debug\net8.0\MyFirstPracticeProgramCSharp.exe
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\bin\Debug\net8.0\MyFirstPracticeProgramCSharp.deps.json
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\bin\Debug\net8.0\MyFirstPracticeProgramCSharp.runtimeconfig.json
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\bin\Debug\net8.0\MyFirstPracticeProgramCSharp.dll
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\bin\Debug\net8.0\MyFirstPracticeProgramCSharp.pdb
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.AssemblyInfoInputs.cache
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.AssemblyInfo.cs
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.dll
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\refint\MyFirstPracticeProgramCSharp.dll
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.pdb
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\MyFirstPracticeProgramCSharp.genruntimeconfig.cache
+C:\Users\sujan.ps\source\repos\MyFirstPracticeProgramCSharp\MyFirstPracticeProgramCSharp\obj\Debug\net8.0\ref\MyFirstPracticeProgramCSharp.dll

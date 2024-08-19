@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+
+@* razor view and razor view engine
+ *@
+ 
+ <h1> currenr date and time is @DateTime.Now</h1>
+
+
+
+<h1> currenr Year is @DateTime.Now.Year</h1>
+
+@{
+    var name = "sujanps";
+    var age = 22;
+}
+
+<h2>Name = @name</h2>
+<h2>Name = @age</h2>
+
+
+@* if statement
+ *@
+ @{
+    var myname = "sujan";
+    if (myname.Equals("sujan"))
+    {
+        <h3> Hey Sujan !</h3>
+    }
+
+    else
+    {
+        <h3>Bye</h3>
+    }
+}
+
+@* for loop
+ *@
+ 
+ @{
+    for(int i = 0; i < 10; i++)
+    {
+       <h2>@i</h2>
+    }
+}
+
+

@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewData["Title"] = "About";
+}
+
+<h1>About</h1>
+
+@ViewBag.data1
+<br />
+@ViewBag.data2
+<br />
+@ViewBag.data3
+
+@TempData["data3"];
+
+
+@* //here in ViewBag no need to typeCasting we can directly access the data 
+ *@
+
+
+@{
+    foreach (var item in ViewBag.data)
+    {
+        <h2>@item</h2>
+    }
+}
+

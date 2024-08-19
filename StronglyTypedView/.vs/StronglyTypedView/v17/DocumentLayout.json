@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|c:\\users\\sujan.ps\\source\\repos\\stronglytypedview\\stronglytypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|solutionrelative:stronglytypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|c:\\users\\sujan.ps\\source\\repos\\stronglytypedview\\stronglytypedview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|solutionrelative:stronglytypedview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|c:\\users\\sujan.ps\\source\\repos\\stronglytypedview\\stronglytypedview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9EA265-042B-4C3A-BD4B-5B570D539493}|StronglyTypedView\\StronglyTypedView.csproj|solutionrelative:stronglytypedview\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StronglyTypedView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StronglyTypedView\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:16:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StronglyTypedView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StronglyTypedView\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:13:59.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "StronglyTypedView\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\StronglyTypedView\\StronglyTypedView\\Models\\Employee.cs",
+              "RelativeToolTip": "StronglyTypedView\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:12:52.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

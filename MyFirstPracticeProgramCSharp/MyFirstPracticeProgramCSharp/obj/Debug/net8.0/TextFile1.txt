@@ -1,0 +1,16 @@
+//C# Course --------------------------------------
+
+Printing heloworld 
+- Short method to writeline cw press tab twice
+- creating the c sharp file , executing c sharp file modifying c sharp file 
+- comments in c sharp // single li ne /**/ multiline Comments 
+
+-escape sequence in c sharp 
+\a alert
+\t tab space 
+\v verticle tab space 
+\b backspace 
+\f form feed 
+\n new line 
+
+-variables in c sharp

@@ -1,0 +1,55 @@
+﻿@model ModelValidation.Models.student
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4">
+            
+@*          Here all the erro messages are displaying below of every input variable but if you want to diaply all the eror msg in one place use the below command 
+           before form use this
+          <div asp-validation-summary="All" style="color:red;">
+     
+            </div>
+*@
+
+            <form asp-controller="Home" asp-action="Index" method="post">
+                <label asp-for="name">Name: </label>
+                <input asp-for="name" placeholder="Enter your name" class="form-control" />
+                <span asp-validation-for="name" style="color:red;"></span>
+                <br />
+                <label asp-for="email">Email: </label>
+                <input asp-for="email" placeholder="Enter your email" class="form-control" />
+                <span asp-validation-for="email" style="color:red;"></span>
+                <br />
+                <label asp-for="age">Age: </label>
+                <input asp-for="age" placeholder="Enter your age" class="form-control" />
+                <span asp-validation-for="age" style="color:red;"></span>
+                <br />
+                <label asp-for="password">Password: </label>
+                <input asp-for="password" placeholder="Enter your Password" class="form-control" />
+                <span asp-validation-for="password" style="color:red;"></span>
+                <br />
+                <label asp-for="confirmpassword">Confirm Password: </label>
+                <input asp-for="confirmpassword" placeholder="Enter  confirm Password" class="form-control" />
+                <span asp-validation-for="confirmpassword" style="color:red;"></span>
+                <br />
+
+                <label asp-for="websiteurl">Website Url: </label>
+                <input asp-for="websiteurl" placeholder=" Enter Website Url" class="form-control" />
+                <span asp-validation-for="websiteurl" style="color:red;"></span>
+                <br />
+                <input type="submit" value="submit" class="btn btn-outline-primary"/>
+
+            </form>
+
+        </div>
+
+    </div>
+</div>

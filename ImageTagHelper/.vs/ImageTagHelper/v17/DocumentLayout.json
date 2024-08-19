@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\sujan.ps\\source\\repos\\imagetaghelper\\imagetaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\sujan.ps\\source\\repos\\imagetaghelper\\imagetaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|c:\\users\\sujan.ps\\source\\repos\\imagetaghelper\\imagetaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B2FBC0-735E-4659-8999-A1BB44E2F33F}|ImageTagHelper\\ImageTagHelper.csproj|solutionrelative:imagetaghelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImageTagHelper\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T02:00:40.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ImageTagHelper\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T01:57:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Program.cs",
+              "RelativeDocumentMoniker": "ImageTagHelper\\Program.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ImageTagHelper\\ImageTagHelper\\Program.cs",
+              "RelativeToolTip": "ImageTagHelper\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T01:58:14.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

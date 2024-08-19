@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "aspnet-blog-application/1.0.0": {
+        "runtime": {
+          "aspnet-blog-application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aspnet-blog-application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

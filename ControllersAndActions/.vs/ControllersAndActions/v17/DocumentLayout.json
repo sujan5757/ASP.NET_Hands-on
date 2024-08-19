@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\ControllersAndActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE6BAEC-22F3-4DBD-84D7-82B80F312D97}|ControllersAndActions\\ControllersAndActions.csproj|c:\\users\\sujan.ps\\source\\repos\\controllersandactions\\controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7AE6BAEC-22F3-4DBD-84D7-82B80F312D97}|ControllersAndActions\\ControllersAndActions.csproj|solutionrelative:controllersandactions\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\ControllersAndActions\\ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ControllersAndActions\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-14T16:56:06.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

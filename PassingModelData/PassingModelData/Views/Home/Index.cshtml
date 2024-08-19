@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    // var emp = ViewData["myemployee"] as Employee;//view data
+    // var emp1 = ViewBag.myemployee;
+    var emp2 = ViewData["myemployee"] as List<Employee>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@* @{
+if(emp !=null)
+{
+<h2>ID: @emp.empid</h2>
+<br />
+<h2>Name :@emp.empname</h2>
+<br />
+<h2>Designation: @emp.designation</h2>
+<br />
+<h2>Salary : @emp.salary</h2>
+}
+}
+
+<h2>ID: @emp1.empid</h2>
+<br />
+<h2>Name :@emp1.empname</h2>
+<br />
+<h2>Designation: @emp1.designation</h2>
+<br />
+<h2>Salary : @emp1.salary</h2> *@
+
+
+@{
+    if(emp2 !=null)
+    {
+        foreach(var item in emp2)
+        {
+            <p>ID: @item.empid</p>
+            <p>Name :@item.empname</p>
+            <p>Designation: @item.designation</p>
+            <p>Salary : @item.salary</p>
+        }
+
+    }
+}
